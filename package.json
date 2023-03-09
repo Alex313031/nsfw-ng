@@ -1,6 +1,6 @@
 {
   "name": "@atom/nsfw",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "description": "A simple file watcher for Node",
   "main": "lib/src/index.js",
   "scripts": {
@@ -27,13 +27,13 @@
   ],
   "homepage": "https://github.com/axosoft/node-simple-file-watcher",
   "dependencies": {
-    "fs-extra": "^7.0.0",
-    "nan": "^2.14.0"
+    "fs-extra": "^7.0.1",
+    "nan": "^2.15.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-preset-es2015": "^6.5.0",
-    "eslint": "^2.2.0",
+    "eslint": "^5.16.0",
     "executive": "^1.6.3",
     "jasmine-node": "^2.0.1"
   },
